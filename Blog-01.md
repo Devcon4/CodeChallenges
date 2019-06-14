@@ -7,5 +7,5 @@ This is the first code challenge! 🎉 This should be the first of many little c
 | Name           	| Website                                  	| Repository                             	|
 |----------------	|------------------------------------------	|----------------------------------------	|
 | Aaron Sorensen 	| https://personal-site-1c4ac.web.app/home 	| https://github.com/indiebash/blog      	|
-| Colton         	| https://hugo.coltonrb.com/               	| https://github.com/coltonrb/hugo-blog  	|
+| Colton Babcock   	| https://hugo.coltonrb.com/               	| https://github.com/coltonrb/hugo-blog  	|
 | Devyn Cyphers  	| https://cyphers.dev/                     	| https://github.com/Devcon4/cyphers.dev 	|
